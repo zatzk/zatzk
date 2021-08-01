@@ -51,3 +51,7 @@ Here are some ideas to get you started:
 ##
  
 ![Snake animation](https://github.com/zatzk/zatzk/blob/output/github-contribution-grid-snake.svg)
+
+ ##
+ 
+ <img src="https://komarev.com/ghpvc/?username=zatzk&label=Profile%20views&color=ce9927&style=flat" alt="zatzk" /> </p>
