@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zatzk&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatzk&layout=compact&langs_count=7&theme=merko"/>
 </div>
-
+<!-- 
 ### Technologies
  
 <div style="display: inline-block" style="color:DodgerBlue">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img align="justify" alt="zatzk-vscode" src="https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465">
 </div>
   
-  
+  -->
   
 ##
  
