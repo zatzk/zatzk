@@ -3,7 +3,6 @@
 <div> 
   <a href = "https://www.behance.net/zatzk"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/zatzk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://myanimelist.net/profile/Zatzk" target="_blank"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" target="_blank"></a> 
 
 </div>
 
