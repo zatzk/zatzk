@@ -1,4 +1,5 @@
 ### Hello, welcome to my github! 
+<img align="left" width="50%" height="50%" src ="https://i.imgur.com/WJpyIgX.gif"/>
 
 - 🔭 Majoring in Software engineering at IFBA (Brazil).
 - 🌱 I’m currently learning FrontEnd Development and ux/ui design.
@@ -27,8 +28,8 @@
 ###
 <div>
   <a href="https://github.com/zatzk">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=zatzk&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatzk&layout=compact&langs_count=7&theme=merko"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=zatzk&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatzk&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 
