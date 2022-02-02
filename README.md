@@ -1,3 +1,4 @@
+<img align="right" width="10000" height="10" src ="https://i.imgur.com/mIOESEE.gif"/>
 <img align="left" width="10" height="550" src ="https://i.imgur.com/mIOESEE.gif"/> <img align="right" width="10" height="550" src ="https://i.imgur.com/mIOESEE.gif"/>
 
 
@@ -42,7 +43,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatzk&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-<img align="right" width="10000" height="10" src ="https://i.imgur.com/mIOESEE.gif"/>
+<img align="left" width="10000" height="10" src ="https://i.imgur.com/mIOESEE.gif"/>
   
   
   <!--
