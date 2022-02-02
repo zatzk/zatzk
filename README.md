@@ -1,5 +1,5 @@
-<img align="left" width="10" height="550" src ="https://i.imgur.com/mIOESEE.gif"/>
-<img align="right" width="10" height="520" src ="https://i.imgur.com/mIOESEE.gif"/>
+<img align="left" width="10" height="550" src ="https://i.imgur.com/mIOESEE.gif"/> <img align="right" width="10" height="550" src ="https://i.imgur.com/mIOESEE.gif"/>
+
 
 <div align="right">
   
