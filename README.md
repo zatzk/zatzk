@@ -1,4 +1,4 @@
-<img align="right" width="10000" height="10" src ="https://i.imgur.com/mIOESEE.gif"/>
+<img align="left" width="10000" height="10" src ="https://i.imgur.com/mIOESEE.gif"/>
 <img align="left" width="10" height="550" src ="https://i.imgur.com/mIOESEE.gif"/> <img align="right" width="10" height="550" src ="https://i.imgur.com/mIOESEE.gif"/>
 
 
@@ -39,8 +39,8 @@
 
 <div align="left">
   <a href="https://github.com/zatzk">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=zatzk&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatzk&layout=compact&langs_count=7&theme=merko"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=zatzk&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatzk&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <img align="left" width="10000" height="10" src ="https://i.imgur.com/mIOESEE.gif"/>
