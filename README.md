@@ -7,13 +7,14 @@
 - ⚡ I love to watch anime.
 
 
-### Connect with me:
+### Socials 🍕 
+
 
 <a href = "https://www.behance.net/zatzk"><img width="28px" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/zatzk/" target="_blank"><img width="28px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
   
-  ### Tech
- 
+  ### Tech 🛠
+  
 <div style="display: inline-block" style="color:DodgerBlue">
   <img align="justify" alt="zatzk-Js" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="justify" alt="zatzk-HTML" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
