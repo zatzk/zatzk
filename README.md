@@ -3,7 +3,7 @@
 
 
 <div align="right">
-  
+  <img align="right" width="" height="" src ="https://i.imgur.com/O3o6yFb.gif"/>
   <h3 align="left" marginLeft="50px"> Hello, welcome to my github! </h3>
   <ul align="left">
     <li> 🔭 Majoring in Software engineering at IFBA (Brazil). </li>
@@ -12,6 +12,7 @@
     <li> 📫 How to reach me: zatzk.cnt@outlook.com </li>
   </ul>
 </div>
+
 
 
 ### Socials 🍕 
