@@ -3,7 +3,7 @@
 
 <div align="right">
   
-  <h3 align="left"> Hello, welcome to my github! </h3>
+  <h3 align="left" marginLeft="50px"> Hello, welcome to my github! </h3>
   <ul align="left">
     <li> 🔭 Majoring in Software engineering at IFBA (Brazil). </li>
     <li> 🌱 I’m currently learning FrontEnd Development and ux/ui design. </li>
@@ -42,7 +42,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatzk&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-
+<img align="right" width="10000" height="10" src ="https://i.imgur.com/mIOESEE.gif"/>
   
   
   <!--
