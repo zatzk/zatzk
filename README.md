@@ -4,11 +4,11 @@
 
 <div align="right">
   <img align="right" width="" height="" src ="https://i.imgur.com/O3o6yFb.gif"/>
-  <h3 align="left" marginLeft="50px"> Hello, welcome to my github! </h3>
+  <h3 align="left" marginLeft="50px"> Hello, welcome to my GitHub! </h3>
   <ul align="left">
     <li> 🔭 Majoring in Software engineering at IFBA (Brazil). </li>
-    <li> 🌱 I’m currently learning FrontEnd Development and ux/ui design. </li>
-    <li> 💬 2022 Goals: Finish projects and become a better dev. </li>
+    <li> 🌱 I’m currently learning FrontEnd Development and UX/UI design. </li>
+    <li> 💬 2022 Goals: focusing on my web dev path and concluding projects. </li>
     <li> 📫 How to reach me: zatzk.cnt@outlook.com </li>
   </ul>
 </div>
