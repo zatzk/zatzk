@@ -33,6 +33,7 @@
     <img align="justify" alt="zatzk-sasscss" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
     <img align="justify" alt="zatzk-Python" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="justify" alt="zatzk-mysql" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="justify" alt="zatzk-node.js" width="28px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   </div>
 </div>
 
