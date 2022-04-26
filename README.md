@@ -7,7 +7,7 @@
   <h3 align="left" marginLeft="50px"> Hello, welcome to my GitHub! <img width="25" height="25" src="https://emoji.gg/assets/emoji/8772_popcat.gif"/> </h3> 
   <ul align="left">
     <li> 🔭 Majoring in Software engineering at IFBA (Brazil). </li>
-    <li> 🌱 I’m currently learning FrontEnd Development and UX/UI design. </li>
+    <li> 🌱 I’m currently learning Front/Back-end Development and UI/UX design, little by little. </li>
     <li> 💬 2022 Goals: focusing on my web dev path and concluding projects. </li>
     <li> 📫 How to reach me:  <a href="mailto:zatzk.cnt@outlook.com">zatzk.cnt@outlook.com</a> </li>
   </ul>
