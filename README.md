@@ -9,7 +9,7 @@
       <li> 🔭 Majoring in Software engineering at IFBA (Brazil). </li>
       <li> 🌱 I’m currently learning web development fullstack, little by little. </li>
       <li> 💬 2022 Goals: focusing on my web dev path and concluding projects. </li>
-      <li> 📫 How to reach me:  <a href="mailto:zatzk.cnt@outlook.com">zatzk.cnt@outlook.com</a> </li>
+      <li> 📫 How to reach me:  <a href="mailto:zatzk.cnt@outlook.com">zatzk@outlook.com</a> </li>
     </ul>
   </div>
 
