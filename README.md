@@ -7,8 +7,8 @@
     <h3 align="left" marginLeft="50px"> Hello, welcome to my GitHub! <img width="25" height="25" src="https://emoji.gg/assets/emoji/8772_popcat.gif"/>  </h3> 
     <ul align="left">
       <li> 🔭 Majoring in Software engineering at IFBA (Brazil). </li>
-      <li> 🌱 I’m currently learning web development fullstack, little by little. </li>
-      <li> 💬 2022 Goals: focusing on my web dev path and concluding projects. </li>
+      <li> 🌱 I’m currently learning fullstack web development, little by little. </li>
+      <li> 💬 2023 Goals: Become better angular dev for my work, improve my skills in react/react native, better my knowledge in ui/ux design and learn rust. </li>
       <li> 📫 How to reach me:  <a href="mailto:zatzk.cnt@outlook.com">zatzk@outlook.com</a> </li>
     </ul>
   </div>
@@ -40,12 +40,6 @@
 </div>
 
   ###
-
-  <div align="left">
-    <a href="https://github.com/zatzk">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=zatzk&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatzk&layout=compact&langs_count=7&theme=midnight-purple"/>
-  </div>
 
   <img align="left" width="10000" height="10" src ="https://i.imgur.com/mIOESEE.gif"/>
 
