@@ -35,7 +35,7 @@
     <img align="justify" alt="zatzk-CSS" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
     <img align="justify" alt="zatzk-Python" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="justify" alt="zatzk-mysql" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-
+    <img align="justify" alt="zatzk-angular" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   </div>
 </div>
 
