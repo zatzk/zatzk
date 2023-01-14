@@ -27,15 +27,12 @@
 ### Tech 🛠
   
   <div style="display: inline-block" style="color:DodgerBlue">
-    <img align="justify" alt="zatzk-Js" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="justify" alt="zatzk-typescript" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-    <img align="justify" alt="zatzk-node.js" width="28px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+    <img align="justify" alt="zatzk-typescript" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"/>
+    <img align="justify" alt="zatzk-angular" width="28px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
     <img align="justify" alt="zatzk-react.js" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="justify" alt="zatzk-HTML" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-    <img align="justify" alt="zatzk-CSS" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-    <img align="justify" alt="zatzk-Python" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img align="justify" alt="zatzk-mysql" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="justify" alt="zatzk-angular" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+    <img align="justify" alt="zatzk-node.js" width="28px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+    <img align="justify" alt="zatzk-postgresql" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    
   </div>
 </div>
 
