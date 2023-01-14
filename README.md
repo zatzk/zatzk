@@ -18,9 +18,10 @@
 ### Socials 🍕 
 
 
-<a href = "https://www.behance.net/zatzk"><img width="28px" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" target="_blank"></a>
-<a href="https://www.linkedin.com/in/zatzk/" target="_blank"><img width="28px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
-  
+<a href = "https://www.behance.net/zatzk"><img width="28px" src="https://i.imgur.com/Gn6foBu.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/zatzk/" target="_blank"><img width="28px" src="https://i.imgur.com/BeYHI3B.png" target="_blank"></a>
+ <a href="https://discord.com/users/200665359626272769" target="_blank"><img width="28px" src="https://i.imgur.com/eQZoNaD.png" target="_blank"></a>
+ <a href="https://open.spotify.com/user/koujitsu?si=c414895ceb07491d" target="_blank"><img width="28px" src="https://i.imgur.com/MLsj81t.png" target="_blank"></a>
 
 <div>  
   
