@@ -4,7 +4,7 @@
 
 
   <div align="right">
-    <img align="right" width="500" height="300" src ="https://i.imgur.com/mIOESEE.gif"/>
+    <img align="right" width="450" height="250" src ="https://i.imgur.com/mIOESEE.gif"/>
     <h3 align="left" marginLeft="50px"> Hello, welcome to my GitHub! <img width="25" height="25" src="https://emoji.gg/assets/emoji/8772_popcat.gif"/>  </h3> 
     <ul align="left">
       <li> 🔭 Majoring in Software engineering at IFBA (Brazil). </li>
