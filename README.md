@@ -10,7 +10,7 @@
       <li> 🔭 Majoring in Software engineering at IFBA (Brazil). </li>
       <li> 🌱 I’m currently improving as a fullstack developer. </li>
       <li> 📫 How to reach me:  <a href="mailto:zatzk.cnt@outlook.com">zatzk@outlook.com</a> </li>
-      <li> 💻 My portfolio page:  <a href="https://zatzk.tech/">https://zatzk.tech/</a> </li>
+      <li> 💻 My portfolio page:  <a href="https://zatzk.tech/">https://zatzk.live/</a> </li>
     </ul>
   </div>
 
